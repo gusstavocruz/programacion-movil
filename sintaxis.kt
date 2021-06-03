@@ -190,4 +190,4 @@ fun main() {
 //    var mensaje : String 
 //     mensaje = if (edad > 18)"MAYOR DE EDAD" else if (edad > 0) "MENOR DE EDAD" else "error"     
 //    println("EL USUARIO $nombre $apellido ES $mensaje ")  
-//  } 
+  } 
